@@ -1,0 +1,25 @@
+# humanstxt.org
+
+# TEAM
+
+Me
+
+---
+
+# THANKS
+
+Got some stuff from people.
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+Atom
+
+## Hosting
+
+Netlify
+
+---
